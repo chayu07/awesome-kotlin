@@ -1,4 +1,4 @@
-# awesome-kotlin
+# Awesome-kotlin
 a link for study kotlin
 
 # link
@@ -12,7 +12,7 @@ https://android.jlelse.eu/complete-example-of-testing-mvp-architecture-with-kotl
 https://www.javacodegeeks.com/2015/03/async-goes-mainstream-7-reactive-programming-tools-you-must-know.html
 https://www.bignerdranch.com/blog/want-kotlin-on-the-server-do-ktor/
 
-## test
+## testing
 https://proandroiddev.com/mockk-idiomatic-mocking-in-kotlin-f4085661261a
 
 ## functional programming with kotlin
